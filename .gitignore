@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+orig
+__pycache__
+*orig*
